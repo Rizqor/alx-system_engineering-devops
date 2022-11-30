@@ -1,1 +1,1 @@
-Not empty
+Delete the file betty
